@@ -40,7 +40,7 @@ If you want to build the extension from source:
 Ensure you have [Node.js](https://nodejs.org/) installed, then run the following commands in your terminal:
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/predXpramad/Smart-AutoFill-Chrome-Extension.git
 cd smart-autofill-extension
 
 # Install the required dependencies
@@ -62,7 +62,7 @@ Contributions are always welcome! Whether it's adding a new feature, fixing a bu
 
 ### How to Contribute:
 1. **Fork the repository** on GitHub.
-2. **Clone your fork** locally: `git clone https://github.com/your-username/smart-autofill-extension.git`
+2. **Clone your fork** locally: `git clone https://github.com/predXpramad/Smart-AutoFill-Chrome-Extension.git`
 3. **Create a new branch** for your feature or bug fix: `git checkout -b feature/awesome-new-feature`
 4. **Make your changes**. 
    - To test UI changes, run `npm run dev` to start a local Vite server.
